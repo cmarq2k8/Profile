@@ -1,4 +1,4 @@
-## Welcome to Carlos' GitHub Page
+## Welcome to Carlos' GitHub Profile Page
 
 You can use the [editor on GitHub](https://github.com/cmarq2k8/Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
